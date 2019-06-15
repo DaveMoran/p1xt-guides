@@ -65,10 +65,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | Skipped | Bachelors |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Skipped | Bachelors |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Skipped | Bachelors |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   | Skipped | Bachelors |
 
 ### Tier X - Programming Prep Prep
 
@@ -76,13 +76,13 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |   Skipped  |   Bachelors  |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |   Skipped  |   Bachelors  |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |   Skipped  |   Bachelors  |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |   Skipped  |   Bachelors  |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |   Skipped  |   Bachelors  |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |   Skipped  |   Bachelors  |
 
 ### Tier 0 - Programming Prep
 
@@ -90,20 +90,20 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |            |
-| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |            |
-| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |            |
-| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |            |
-| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |            |
-| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
+| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |   Skipped  |   Bachelors  |
+| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |   Skipped  |   Bachelors  |
+| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |   Skipped  |   Bachelors  |
+| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |   Skipped  |   Bachelors  |
+| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |   Skipped  |   Bachelors  |
+| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |   Skipped  |   Bachelors  |
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
-| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
-| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
-| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
+| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |   Skipped  |   Bachelors  |
+| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |   Skipped  |   Bachelors  |
+| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |   Skipped  |   Bachelors  |
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
-| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
+| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |   Skipped  |   Bachelors  |
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |   Skipped  |   Bachelors  |
 | Tier Programming Project                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                              |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
