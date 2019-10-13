@@ -65,10 +65,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | Skipped | Bachelors |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Skipped | Bachelors |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Skipped | Bachelors |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   | Skipped | Bachelors |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | 13% | 2,440/ 18,700 |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       | 0% | 0/ 12,300 |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | 0% | 0/ 2,800 |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   | 0% | 0/ 11,200 |
 
 ### Tier X - Programming Prep Prep
 
@@ -131,7 +131,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)                                                                                                                                                                                         |            |
 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                                                                                                                                                               |            |
 | **Practice**                                                                                                                                                                                                                                                                                                                                          | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                                                                                                                                                                        |            |
+| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                                                                                                                                                                        |  8% |  |
 | Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                                                                                                                                                                   |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
