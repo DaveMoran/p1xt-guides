@@ -100,7 +100,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |   Skipped  |   Bachelors  |
 | [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |   Skipped  |   Bachelors  |
 | [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |   Skipped  |   Bachelors  |
-| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |   Ch. 7  |  |
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |   Skipped  |   Bachelors  |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |   Skipped  |   Bachelors  |
