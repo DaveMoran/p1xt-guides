@@ -91,7 +91,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |   Skipped  |   Bachelors  |
+| Welcome To Coding                                                                                                                                                     |   100%  |     |
 | Full Stack Online - Intro to Programming                                                                                                                              |   Skipped  |   Bachelors  |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |   Skipped  |   Bachelors  |
 | Full Stack Online - Ruby                                                                                                                                              |   Skipped  |   Bachelors  |
