@@ -66,7 +66,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | 13% | 2,440/ 18,700 |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | 21% | 3,8700/ 18,700 |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       | 0% | 0/ 12,300 |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) | 0% | 0/ 2,800 |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   | 0% | 0/ 11,200 |
