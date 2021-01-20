@@ -59,6 +59,10 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
+### Additional Resources
+
+These are items that are recommended to complete alongside this list. Some of these items will sit behind a paywall but are considered worth their weight in gold.
+
 ## Junior developer
 
 ### Tier X - Math Prep
@@ -259,3 +263,7 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 | Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+## Additional Resources
+
+Go through these alongside any of the above tiers. Some may be more worthwhile to complete in different phases of your growth, such as at the beginning or closer to your interview phase
