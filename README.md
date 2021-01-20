@@ -267,3 +267,9 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 ## Additional Resources
 
 Go through these alongside any of the above tiers. Some may be more worthwhile to complete in different phases of your growth, such as at the beginning or closer to your interview phase
+
+| **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)                                                           |            |              |
+| [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556)                                                                    |            |              |
+| [Introduction to Algorithms, 3rd ed.](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)                                                              |            |              |
