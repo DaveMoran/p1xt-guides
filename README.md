@@ -71,10 +71,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |   31%  | [Link](https://drive.google.com/file/d/1eVHgBcQ26siGzBY3C9AgGxYCksD7KSpR/view?usp=sharing) |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |    1%  | [Link](https://drive.google.com/file/d/1eVHgBcQ26siGzBY3C9AgGxYCksD7KSpR/view?usp=sharing) |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |    0%  | [Link](https://drive.google.com/file/d/1eVHgBcQ26siGzBY3C9AgGxYCksD7KSpR/view?usp=sharing) |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |    1%  | [Link](https://drive.google.com/file/d/1eVHgBcQ26siGzBY3C9AgGxYCksD7KSpR/view?usp=sharing) |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   52%  | [Link](https://drive.google.com/file/d/1dqVd4ILt-pliaq05P1pooJTvYeMnwDop/view?usp=sharing) |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |    1%  | [Link](https://drive.google.com/file/d/1dqVd4ILt-pliaq05P1pooJTvYeMnwDop/view?usp=sharing) |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |    0%  | [Link](https://drive.google.com/file/d/1dqVd4ILt-pliaq05P1pooJTvYeMnwDop/view?usp=sharing) |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |    1%  | [Link](https://drive.google.com/file/d/1dqVd4ILt-pliaq05P1pooJTvYeMnwDop/view?usp=sharing) |
 
 ### Tier X - Programming Prep Prep
 
